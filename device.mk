@@ -552,3 +552,10 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     libnl \
     libwfdaac_vendor
+
+# Havoc-OS
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.havoc.device.name="Xiaomi 11 Lite NE 5G" \
+    ro.havoc.group.url=https://t.me/derpfest_lisa_unofficial \
+    ro.havoc.maintainer="Nicolas" \
+    ro.havoc.maintainer.username=Nicolas1525 \
